@@ -1,10 +1,14 @@
 # Hello! I'm Damián Ponce 👋
 
-I'm a **Developer and Engineering Student** from Buenos Aires, Argentina. I thrive on creativity and problem-solving, blending my love for coding with interests in graphic design and electronics.
+I'm a **Developer and Computer Science student** from Buenos Aires, Argentina. I thrive on creativity and problem-solving, blending my love for coding with interests in graphic design and electronics.
 
 ## About Me
 
-- 🔭 Currently **Lead Front-End Developer** @ GMF - LAyF - UTN FRH
+- 💃 Currently **Lead Web Developer** @ ETI Tango
+  - Developing an all-encompasing web system for event and user management.
+  - Responsible for UX/UI, front-end and SaaS backend.
+
+- 🔭 Also, **Lead Front-End Developer** @ GMF - LAyF - UTN FRH
   - Developing on a Web Simulation Suite for VFRB technology.
   - Responsible for UX/UI, front-end and partial IT operations.
 
@@ -21,6 +25,10 @@ Find out more on my [website](https://damianponce.com).
 ## Experience & Projects
 
 ### Professional Experience
+
+- **Web Developer** at ETI Tango
+  *Building an event management website from scratch leveraging Next.js and Firebase*
+
 - **Front-end Web Developer** at GMF - LAyF - UTN FRH  
   *Leading development of simulation tools using React, Node.js, vtk.js, and three.js.*
 
@@ -44,4 +52,4 @@ Find out more on my [website](https://damianponce.com).
 
 ---
 
-Feel free to reach out if you are hirihg, want to collaborate or just chat about technology!
+Feel free to reach out if you are hirihg, want to collaborate or just to chat about technology!
